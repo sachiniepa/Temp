@@ -1,0 +1,23 @@
+[
+    {
+      "flag_id": 1,
+      "feedback_id": 6,
+      "user_id": 5,
+      "flag_reason": "Inappropriate content",
+      "status": "pending"
+    },
+    {
+      "flag_id": 1,
+      "feedback_id": 8,
+      "user_id": 5,
+      "flag_reason": "Inappropriate content",
+      "status": "pending"
+    },
+    {
+      "flag_id": 3,
+      "feedback_id": 10,
+      "user_id": 3,
+      "flag_reason": "Inappropriate content",
+      "status": "pending"
+    }
+]
